@@ -1,0 +1,2 @@
+# libconfig
+library for configuration
